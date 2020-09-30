@@ -73,14 +73,14 @@ body {
 }
 ​
 .consolidated{
-	position:center;
+	position:relative;
   left:700px;
   top:90px;
   color:white;
   }
 ​
   .4601{
-	position:center;
+	position:relative;
   left:700px;
   top:90px;
   color:white;
@@ -88,7 +88,7 @@ body {
   }
 ​
   .houston{
-	position:center;
+	position:relative;
   left:700px;
   top:90px;
   color:white;
