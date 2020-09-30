@@ -1,27 +1,105 @@
 
 /* css */
+
+h1 {
+	position:relative;
+  left:460px;
+  color:white;
+}
+​
+h4 {
+	position:relative;
+  left:460px;
+  color:white;
+}
 body {
-  font-family: "Helveitca";
-  display: block;
+  background-color:	#000000
 }
-.container {
-  background-color: #000000;
-  width: 600px;
-  justify-content: center;
+​
+.with {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
 }
-#black {
-  background-color: #000000;
-  width: 600px;
-  height: 470px;
-  position: absolute;
-  justify-content: center;
+​
+.saccharine {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
 }
-.white{color: white}
-
-.purple{color: purple}
-
-.blue{color: blue}
-
-{background-color: black}
-
+​
+.big {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
 }
+​
+.october {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+​
+.friday {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+​
+.august {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+​
+.august {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+​
+.all{
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+​
+.consolidated{
+	position:center;
+  left:700px;
+  top:90px;
+  color:white;
+  }
+​
+  .4601{
+	position:center;
+  left:700px;
+  top:90px;
+  color:white;
+  font-size: 4420%;
+  }
+​
+  .houston{
+	position:center;
+  left:700px;
+  top:90px;
+  color:white;
+  }
+​
+ .f{
+position:relative;
+  left:905px;
+  top:-4255px;
+  color: #34ACD6;
+  font-size: 4700%;
+  mix-blend-mode: multiply;
+  font-weight: bold;
+  }
