@@ -1,7 +1,65 @@
 
 /* css */
+body {
+  background-color:	#000000;
+  color: white;
+}
+.large-text{
+  font-family: sans-serif;
+  font-size: 10rem;
+  line-height: 10rem;
+  font-weight: bold;
+}
+.large-text-middle{
+  padding: 0 30px;
+}
+.small-text-top{
+  font-size: 13px;
+  line-height: 13px;
+  padding-left: 0 5px;
+}
+.small-text-text{
+  font-size: 13px;
+  line-height: 13px;
+  padding-left: 0 5px;
+}
+.blue{
+  color: #43C6DB
+}
+.purple{
+  color: #CF72EF
+}
 
-h1 {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1 {
 	position:relative;
   left:460px;
   color:white;
@@ -12,9 +70,7 @@ h4 {
   left:460px;
   color:white;
 }
-body {
-  background-color:	#000000
-}
+
 ​
 .with {
 	position:relative;
@@ -101,4 +157,4 @@ position:relative;
   font-size: 4700%;
   mix-blend-mode: multiply;
   font-weight: bold;
-  }
+  } */
